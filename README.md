@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Ujjwal Kumar Banner" width="100%">
+  <img src="./assets/githhub.png" alt="Ujjwal Kumar Banner" width="100%">
 </p>
 <div align="center">
 
-<img src="./assets/banner.png" alt="Ujjwal Kumar Banner" width="100%"/>
+
 
 # 👋 Hi, I'm Ujjwal Kumar
 
